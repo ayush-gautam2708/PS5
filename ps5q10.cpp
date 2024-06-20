@@ -26,7 +26,6 @@ void DFS(int v)
 
 int main()
 {
-    fastio;
     int t, n, i, mn;
     cin >> t;
     while (t--)
