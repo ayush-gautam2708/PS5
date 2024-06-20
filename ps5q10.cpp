@@ -1,8 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-#define fastio               \
-    ios::sync_with_stdio(0); \
-    cin.tie(0)
 int pr[300005], l[300005], r[300005], cst[300005], vis[300005];
 vector<int> adj[300005];
 string s;
